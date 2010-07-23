@@ -1,0 +1,4 @@
+== Compile ==
+    javac -sourcepath src -d build/classes/ src/getting/HelloWorld.java
+== Run ==
+    java -cp build/classes/ getting.HelloWorld
