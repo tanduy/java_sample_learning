@@ -1,0 +1,6 @@
+This example demonstrate how to connect to database using JDBC
+
+Before running example, must download and extract driver to $JAVA_HOME/jre/lib/ext
+After that, change username, password, database_name in the source code
+
+Using ant to run this example
